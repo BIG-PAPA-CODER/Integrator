@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>diodaOn.png</file>
+        <file>diodaOff.png</file>
+    </qresource>
+</RCC>
