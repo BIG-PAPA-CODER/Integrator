@@ -77,3 +77,6 @@ The application was developed as part of an **engineering thesis at Wrocław Uni
   - Distance vs accuracy for ToF and thermal sensors
 
 ---
+## Documentation
+
+For detailed technical background, testing methodology, and diagrams, see the full thesis [here](docs/praca_dypl.pdf).
